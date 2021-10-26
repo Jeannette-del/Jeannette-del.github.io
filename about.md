@@ -6,4 +6,4 @@ permalink: /about/
 
 Welcome to this website!
 
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+> I am from Rwanda, I am Mathematician, Data scientist, Machine intelligence
