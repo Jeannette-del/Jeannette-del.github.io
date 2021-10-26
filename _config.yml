@@ -16,6 +16,8 @@ profile: Welcome on my Website !I am data scientist.
 profile_links:
   Email: "mailto:jnyirahakiza@gmail.com"
   GitHub: "https://github.com/Jeannette-del"
+  LinkedIn: "https://www.linkedin.com/in/jeanette-nyirahakizimana-3612aa188/ "
+  CV: "../Documents/Jeannette_cv.pdf"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
