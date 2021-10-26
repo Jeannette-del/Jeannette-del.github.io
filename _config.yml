@@ -10,7 +10,7 @@ description: >
 email: jnyirahakiza@gmail.com
 author: Jeannette Nyirahakizimana
 avatar: "https://github.com/Jeannette-del/Jeannette-del.github.io/blob/gh-pages/photos/jeannette_portrait.jpg?raw=true"
-profile: I am data scientist.
+profile: Welcome!I am data scientist.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
@@ -29,7 +29,7 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
     Category: /category/
-    Donate: https://laobubu.net/donate.html
+   # Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
